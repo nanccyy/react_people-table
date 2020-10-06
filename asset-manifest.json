@@ -1,22 +1,25 @@
 {
   "files": {
-    "main.css": "./static/css/main.36497136.chunk.css",
-    "main.js": "./static/js/main.c07b3dfc.chunk.js",
-    "main.js.map": "./static/js/main.c07b3dfc.chunk.js.map",
-    "runtime-main.js": "./static/js/runtime-main.bb2b3d13.js",
-    "runtime-main.js.map": "./static/js/runtime-main.bb2b3d13.js.map",
-    "static/js/2.f354eac9.chunk.js": "./static/js/2.f354eac9.chunk.js",
-    "static/js/2.f354eac9.chunk.js.map": "./static/js/2.f354eac9.chunk.js.map",
-    "index.html": "./index.html",
-    "precache-manifest.981ba8a67d347b3b27b4e2a262ddabe6.js": "./precache-manifest.981ba8a67d347b3b27b4e2a262ddabe6.js",
-    "service-worker.js": "./service-worker.js",
-    "static/css/main.36497136.chunk.css.map": "./static/css/main.36497136.chunk.css.map",
-    "static/js/2.f354eac9.chunk.js.LICENSE.txt": "./static/js/2.f354eac9.chunk.js.LICENSE.txt"
+    "main.css": "/react_people-table/static/css/main.23bc6bf5.chunk.css",
+    "main.js": "/react_people-table/static/js/main.b2c7ae71.chunk.js",
+    "main.js.map": "/react_people-table/static/js/main.b2c7ae71.chunk.js.map",
+    "runtime-main.js": "/react_people-table/static/js/runtime-main.6e48df64.js",
+    "runtime-main.js.map": "/react_people-table/static/js/runtime-main.6e48df64.js.map",
+    "static/css/2.98705a83.chunk.css": "/react_people-table/static/css/2.98705a83.chunk.css",
+    "static/js/2.f01b5a0c.chunk.js": "/react_people-table/static/js/2.f01b5a0c.chunk.js",
+    "static/js/2.f01b5a0c.chunk.js.map": "/react_people-table/static/js/2.f01b5a0c.chunk.js.map",
+    "index.html": "/react_people-table/index.html",
+    "precache-manifest.c1336fd7936b01e7b29ec0b3dfd6df67.js": "/react_people-table/precache-manifest.c1336fd7936b01e7b29ec0b3dfd6df67.js",
+    "service-worker.js": "/react_people-table/service-worker.js",
+    "static/css/2.98705a83.chunk.css.map": "/react_people-table/static/css/2.98705a83.chunk.css.map",
+    "static/css/main.23bc6bf5.chunk.css.map": "/react_people-table/static/css/main.23bc6bf5.chunk.css.map",
+    "static/js/2.f01b5a0c.chunk.js.LICENSE.txt": "/react_people-table/static/js/2.f01b5a0c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.bb2b3d13.js",
-    "static/js/2.f354eac9.chunk.js",
-    "static/css/main.36497136.chunk.css",
-    "static/js/main.c07b3dfc.chunk.js"
+    "static/js/runtime-main.6e48df64.js",
+    "static/css/2.98705a83.chunk.css",
+    "static/js/2.f01b5a0c.chunk.js",
+    "static/css/main.23bc6bf5.chunk.css",
+    "static/js/main.b2c7ae71.chunk.js"
   ]
 }
